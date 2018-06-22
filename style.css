@@ -1,7 +1,32 @@
 h1 {
      font-family: "Supermercado One";
      font-size: 45px;
-     border: 4px rosybrown;
+     border: 4px solid #008080	;
+    
+     
 
-
+}
+h2 {
+    margin-top: 0;
+    text-transform: uppercase;
+    font-family: "Oswald";
+    font-size: 25px;
+}
+h3 {
+    margin-top: 0;
+    text-transform: uppercase;
+    font-family: "Oswald";
+    font-size: 25px;
+}
+h4 {
+    margin-top: 0;
+    text-transform: uppercase;
+    font-family: "Oswald";
+    font-size: 25px;
+}
+h5 {
+    margin-top: 0;
+    text-transform: uppercase;
+    font-family: "Oswald";
+    font-size: 20px;
 }
